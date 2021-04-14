@@ -1,0 +1,17 @@
+p {
+    text-align: center;
+    border-style: ridge;
+    border-radius: 8rem;
+    border-color:blue;
+}
+
+.links {
+    text-align: center;
+    font-size: 2vm;
+    color:blue ;
+}
+
+
+h3 {
+    text-decoration: underline;
+}
